@@ -29,8 +29,8 @@ Computer engineer, graduated from Ankara University (2026). I build automation t
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/keremcanarslan/)
+[Website](https://keremcanarslan.github.io/) · [LinkedIn](https://www.linkedin.com/in/keremcanarslan/)
 
 ---
 
-**Türkçe:** Ankara Üniversitesi Bilgisayar Mühendisliği mezunuyum (2026). KOBİ'ler için Excel otomasyonu, veri çekme, Telegram/Discord botları ve e-posta güvenliği (SPF, DKIM, DMARC) kurulumu yapıyorum.
+**Türkçe:** Ankara Üniversitesi Bilgisayar Mühendisliği mezunuyum (2026). KOBİ'ler için Excel otomasyonu, veri çekme, Telegram/Discord botları ve e-posta güvenliği (SPF, DKIM, DMARC) kurulumu yapıyorum. Ücretsiz araçlar: [e-posta güvenlik testi](https://keremcanarslan.github.io/eposta-guvenlik-testi/) · [e-Fatura XML → Excel](https://keremcanarslan.github.io/e-fatura-excel/)
